@@ -19,11 +19,8 @@ address1 = "I LOVE YOU GRANDMA!"
 address2 = "Fuck off grandma!"
 address3 = "FUCK OFF GRANDMA!"
 
-puts address1
-puts speak_to_grandma(address1)
-
-# puts address2
-# puts speak_to_grandma(address2)
+puts address2
+puts speak_to_grandma(address2)
 
 # puts address3
 # puts speak_to_grandma(address3)
