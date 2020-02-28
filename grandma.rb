@@ -14,10 +14,3 @@ def speak(phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
-
-address1 = "I LOVE YOU GRANDMA!"
-address2 = "Fuck off grandma!"
-address3 = "FUCK OFF GRANDMA!"
-
-puts address3
-puts speak_to_grandma(address3)
